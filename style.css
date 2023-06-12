@@ -55,13 +55,13 @@ body{
     color: #969FAD;
     font-weight: 700;
 }
-.star{
+#star{
     display: flex;
-    margin-top: 15px;
+    margin-top:15px;
     justify-content: center;
     align-items: center;
     width: 5%;
-    padding: 0.75rem 1.0625rem;
+    padding: 0.625rem 0.75rem;
     border-radius: 50%;
     background-color: #262E38;
 }
