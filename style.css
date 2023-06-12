@@ -57,7 +57,6 @@ body{
 }
 #star{
     display: flex;
-    margin-top:15px;
     justify-content: center;
     align-items: center;
     width: 5%;
